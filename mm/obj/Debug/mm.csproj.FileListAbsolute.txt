@@ -1,0 +1,7 @@
+C:\Users\Sony\Desktop\C#_Training\mm\mm\bin\Debug\mm.exe.config
+C:\Users\Sony\Desktop\C#_Training\mm\mm\bin\Debug\mm.exe
+C:\Users\Sony\Desktop\C#_Training\mm\mm\bin\Debug\mm.pdb
+C:\Users\Sony\Desktop\C#_Training\mm\mm\obj\Debug\mm.csproj.AssemblyReference.cache
+C:\Users\Sony\Desktop\C#_Training\mm\mm\obj\Debug\mm.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Desktop\C#_Training\mm\mm\obj\Debug\mm.exe
+C:\Users\Sony\Desktop\C#_Training\mm\mm\obj\Debug\mm.pdb
